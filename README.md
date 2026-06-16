@@ -1,6 +1,6 @@
 # 🎛️ AudioEstudio 
 
-**VST3 plugin** for REAPER and other DAWs that allows control of sound .
+**VST3 plugin** for REAPER and other DAWs that allows control of sound : panning, volume and depth.
 
 ![Plugin Interface](screenshot.png)
 
